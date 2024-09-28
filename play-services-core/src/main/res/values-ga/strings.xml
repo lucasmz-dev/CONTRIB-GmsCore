@@ -242,4 +242,7 @@
     <string name="credentials_assisted_continue_as_user_button_label">Lean ar aghaidh mar %1$s</string>
     <string name="pref_vending_licensing_purchase_free_apps_switch">Cuir aipeanna saor in aisce leis an leabharlann go huathoibríoch</string>
     <string name="pref_vending_licensing_purchase_free_apps_summary">Féadfaidh aipeanna saor in aisce a sheiceáil cibé an ndearnadh iad a íoslódáil ó Google Play. Cuir aipeanna saor in aisce le do leabharlann chuntais go huathoibríoch chun an tseic ar gach aip saor in aisce atá ar fáil duit faoi láthair a chur ar aghaidh i gcónaí.</string>
+    <string name="limited_services_dialog_information">Tá tú ag úsáid Seirbhísí Teoranta MicroG. Murab ionann agus na gnáthsheirbhísí microG, ní oibríonn an blas seo ach le haipeanna a úsáideann leabharlanna microG, ní iad siúd ar Google Play. Ciallaíonn sé seo go ndéanfaidh formhór na n-iarratas neamhaird ar na seirbhísí seo.</string>
+    <string name="limited_services_app_name">Seirbhísí Teoranta microG</string>
+    <string name="limited_services_dialog_information_ack">Tuigim</string>
 </resources>
