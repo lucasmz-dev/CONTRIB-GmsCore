@@ -242,4 +242,7 @@
     <string name="auth_package_override_request_message">Aplikace <b><xliff:g example="F-Droid">%1$s</xliff:g></b> žádá o přístup k vašemu účtu, jako by byla aplikací <b><xliff:g example="F-Droid">%2$s</xliff:g> od vývojáře <xliff:g example="F-Droid Inc.">%3$s</xliff:g></b>. Tímto jí můžete udělit privilegovaný přístup k vašemu účtu.</string>
     <string name="pref_vending_licensing_purchase_free_apps_switch">Automaticky přidávat bezplatné aplikace do knihovny</string>
     <string name="pref_vending_licensing_purchase_free_apps_summary">Bezplatné aplikace mohou kontrolovat, zda byly staženy z Google Play. Automaticky přidávat bezplatné aplikace do knihovny vašeho účtu, abyste vždy prošli kontrolou u všech bezplatných aplikací, které máte aktuálně k dispozici.</string>
+    <string name="limited_services_app_name">Omezené služby microG</string>
+    <string name="limited_services_dialog_information">Používáte Omezené služby microG. Na rozdíl od klasických Služeb microG funguje tato varianta pouze s aplikacemi, které používají knihovny microG, nikoli ale s těmi, které používají Google Play. To znamená, že většina aplikací bude tyto služby ignorovat.</string>
+    <string name="limited_services_dialog_information_ack">Rozumím</string>
 </resources>
