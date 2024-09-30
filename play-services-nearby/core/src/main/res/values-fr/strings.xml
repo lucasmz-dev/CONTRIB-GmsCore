@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="exposure_notify_off_title">Notifications d\'exposition inactives</string>
+</resources>
