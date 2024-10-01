@@ -232,10 +232,37 @@ Ceci peut prendre plusieurs minutes."</string>
     <string name="pref_safetynet_test_no_result">Pas de résultat</string>
     <string name="pref_safetynet_test_invalid_json">JSON invalide</string>
     <string name="push_notifications_summary_automatic">ACTIF / Automatique : %s</string>
-    <string name="push_notifications_summary_manual">ACTIF / Spécifique : %s</string>
+    <string name="push_notifications_summary_manual">ACTIF / Manuel : %s</string>
     <string name="push_notifications_summary_values_seconds">%s secondes</string>
     <string name="auth_connecting">Votre appareil est en train d\'établir une connexion avec les serveurs de Google pour vous authentifier.
 \n
 \nCela peut prendre quelques secondes.</string>
     <string name="pref_info_status">Statut</string>
+    <string name="credentials_assisted_cancel">Annuler</string>
+    <string name="credentials_assisted_continue">Continuer</string>
+    <string name="credentials_assisted_choose_account_label">Choisir un compte</string>
+    <string name="credentials_assisted_choose_account_subtitle">pour continuer vers %1$s</string>
+    <string name="credentials_assisted_signin_button_text_long">Se connecter avec Google</string>
+    <string name="pref_vending_billing_note_experimental">Cette fonctionnalité est expérimentale et peut causer des pertes d\'argent. Vous êtes prévenus.</string>
+    <string name="credentials_assisted_confirmation_header">En cours de connexion</string>
+    <string name="pref_vending_summary_licensing_on">Récupération de licences actif</string>
+    <string name="pref_vending_licensing_purchase_free_apps_switch">Ajouter automatiquement les applis gratuites à la bibliothèque</string>
+    <string name="pref_vending_licensing_purchase_free_apps_summary">Les applis gratuites peuvent vérifier si elles ont été téléchargées depuis Google Play. Ajouter automatiquement les applis gratuites à la bibliothèque de votre compte afin que toutes les applis gratuites à votre disposition passent systématiquement ces vérifications.</string>
+    <string name="credentials_assisted_continue_as_user_button_label">Continuer en tant que %1$s</string>
+    <string name="credentials_assisted_sign_back_title">Se reconnecter à %1$s avec Google</string>
+    <string name="limited_services_dialog_information_ack">Je comprends</string>
+    <string name="pref_vending_licensing_category">Récupération de licences Google Play</string>
+    <string name="backup_disabled">Sauvegarde actuellement impossible</string>
+    <string name="pref_vending_billing_category">Facturation Google Play</string>
+    <string name="pref_vending_billing_enable_switch">Traiter les requêtes de facturation</string>
+    <string name="pref_vending_billing_enable_summary">Si activé, certaines applis pourront effectuer des achats ou démarrer des abonnements via le service de facturation Google Play.</string>
+    <string name="pref_vending_billing_note_licensing">Certaines applis pourraient nécessiter aussi d\'activer la vérification de licences pour vérifier vos achats.</string>
+    <string name="pref_vending_license_enable_summary">Certaines applis exigent de vérifier que vous les avez bien achetées sur Google Play. Quand exigé par une appli, microG peut télécharger une preuve d\'achat en provenance de Google. Si désactivé ou aucun compte Google sur l\'appareil, ces requêtes de vérification de licences sont ignorées.</string>
+    <string name="limited_services_dialog_information">Vous utilisez les services limités microG. Contrairement aux services microG standard, cette version fonctionne uniquement avec les librairies microG, et non celles de Google Play. Cela signifie que la plupart des applications ignoreront ces services.</string>
+    <string name="feedback_disabled">Feedback actuellement impossible</string>
+    <string name="pref_vending_summary_licensing_off">Récupération de licences inactif</string>
+    <string name="credentials_assisted_signin_consent_header">En cours de connexion en tant que %1$s</string>
+    <string name="credentials_assisted_signin_consent">En continuant, Google partagera avec %1$s votre nom, adresse mail et image de profil. Consultez la politique de confidentialité et les conditions générales de %1$s.</string>
+    <string name="pref_vending_licensing_enable_switch">Répondre aux requêtes de vérification de licence</string>
+    <string name="credentials_assisted_signin_description">Vous pouvez gérer Se Connecter avec Google dans votre compte Google.</string>
 </resources>
