@@ -254,4 +254,7 @@ Spróbuj ponownie później."</string>
     <string name="auth_package_override_request_message"><b><xliff:g example="F-Droid">%1$s</xliff:g></b> chce uzyskać dostęp do konta tak, jakby było <b><xliff:g example="F-Droid">%2$s</xliff:g> autorstwa <xliff:g example="F-Droid Inc.">%3$s</xliff:g></b>. Może to zapewnić mu uprzywilejowany dostęp do konta użytkownika.</string>
     <string name="pref_vending_licensing_purchase_free_apps_switch">Automatycznie dodawaj bezpłatne aplikacje do biblioteki</string>
     <string name="pref_vending_licensing_purchase_free_apps_summary">Darmowe aplikacje mogą sprawdzać, czy zostały pobrane ze Sklepu Google Play. Automatycznie dodawaj darmowe aplikacje do biblioteki konta, aby zawsze sprawdzać wszystkie aktualnie dostępne darmowe aplikacje.</string>
+    <string name="limited_services_app_name">Ograniczone usługi microG</string>
+    <string name="limited_services_dialog_information_ack">Rozumiem</string>
+    <string name="limited_services_dialog_information">Korzystasz z ograniczonych usług microG. W przeciwieństwie do zwykłych usług microG, ten wariant działa tylko z aplikacjami korzystającymi z bibliotek microG, a nie z tych w Google Play. Oznacza to, że większość aplikacji zignoruje te usługi.</string>
 </resources>
