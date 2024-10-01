@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="exposure_notify_off_title">Notifications d\'exposition inactives</string>
+    <string name="pref_exposure_error_bluetooth_no_advertise_summary">Malheureusement, votre appareil est seulement partiellement compatible avec les notifications d\'exposition. Vous pouvez être notifié des contacts à risque mais vous ne pourrez pas notifier les autres.</string>
+    <string name="pref_exposure_collected_rpis_summary"><xliff:g example="63">%1$d</xliff:g> IDs dans la dernière heure</string>
+    <string name="exposure_notify_off_bluetooth">Le Bluetooth doit être activé pour recevoir les notifications d\'exposition.</string>
+    <string name="exposure_notify_off_location">L\'accès à la localisation est nécessaire pour recevoir les notifications d\'exposition.</string>
+    <string name="exposure_notify_off_bluetooth_location">Le Bluetooth et l\'accès à la localisation doivent être activés pour recevoir les notifications d\'exposition.</string>
+    <string name="exposure_notify_off_nearby">Les notifications d\'exposition nécessitent des permissions additionnelles pour fonctionner</string>
+    <string name="service_name_exposure">Notifications d\'exposition</string>
+    <string name="pref_exposure_error_location_off_title">Ouvrir les paramètres de localisation</string>
+    <string name="pref_exposure_error_bluetooth_off_title">Activer le Bluetooth</string>
+    <string name="pref_exposure_enable_info_summary">Pour activer les notifications d\'exposition, ouvrez une appli les prenant en charge.</string>
+    <string name="pref_exposure_error_bluetooth_unsupported_summary">Malheureusement, votre appareil n\'est pas compatible avec les notifications d\'exposition.</string>
+    <string name="prefcat_exposure_apps_title">Applis utilisant les notifications d\'exposition</string>
+    <string name="pref_exposure_collected_rpis_title">IDs collectés</string>
 </resources>
