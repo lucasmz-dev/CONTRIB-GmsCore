@@ -137,8 +137,8 @@
     <string name="self_check_name_fake_sig_perm">Hệ thống có hỗ trợ giả mạo chữ ký:</string>
     <string name="self_check_resolution_perm_granted">Đây là một chỉ báo mạnh cho thấy ROM hỗ trợ giả mạo chữ ký, nhưng cần thêm thao tác để kích hoạt nó. Vui lòng kiểm tra tài liệu để biết về các bước cần thiết.</string>
     <string name="self_check_name_app_installed"><xliff:g example="F-Droid">%1$s</xliff:g> đã cài đặt: </string>
-    <string name="self_check_pkg_vending">Play Store (Phonesky)</string>
-    <string name="self_check_pkg_gsf">Services Framework (GSF)</string>
+    <string name="self_check_pkg_vending">Cửa hàng Play (Phonesky)</string>
+    <string name="self_check_pkg_gsf">Khung dịch vụ (GSF)</string>
     <string name="self_check_name_battery_optimizations">Tối ưu hóa pin bị bỏ qua:</string>
     <string name="prefcat_about">Giới thiệu</string>
     <string name="self_check_resolution_battery_optimizations">Chạm vào đây để tắt tối ưu hóa pin. Không làm như vậy có thể khiến các ứng dụng hoạt động không bình thường.</string>
@@ -221,7 +221,7 @@
     <string name="self_check_cat_gms_packages">Các gói đã cài đặt</string>
     <string name="self_check_resolution_system_spoofs">Vui lòng kiểm tra tài liệu để biết những bước nào có thể được yêu cầu.</string>
     <string name="self_check_resolution_app_installed">Cài đặt ứng dụng <xliff:g example="F-Droid">%1$s</xliff:g> hoặc ứng dụng tương thích. Vui lòng kiểm tra tài liệu về ứng dụng nào tương thích.</string>
-    <string name="self_check_pkg_gms">Play Services (GmsCore)</string>
+    <string name="self_check_pkg_gms">Dịch vụ Play (GmsCore)</string>
     <string name="prefcat_test">Kiểm tra</string>
     <string name="cond_gcm_bat_action">Tắt tối ưu hóa</string>
     <string name="pref_gcm_heartbeat_summary">Khoảng thời gian tính bằng giây để hệ thống gửi tín hiệu đến máy chủ Google. Tăng giá trị này sẽ giảm tiêu thụ pin, nhưng có thể gây ra sự chậm trễ trong việc nhận thông báo đẩy.\nTính năng này đã bị loại bỏ và sẽ được thay thế trong các phiên bản sau.</string>
