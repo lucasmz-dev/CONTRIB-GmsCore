@@ -175,7 +175,7 @@
     <string name="push_notifications_summary_values_seconds">%s 秒</string>
     <string name="push_notifications_summary_values_minutes">%s 分鐘</string>
     <string name="gms_settings_summary">設定 microG 服務。</string>
-    <string name="auth_before_connect">「有應用程式正在登入您的 Google 帳戶。 \u0020若確認是由您進行操作，請透過<b>登入</b>按鈕連線至 Google 登入頁面；反之，請點觸<b>取消</b>並跳轉至發起存取要求的應用程式。」</string>
+    <string name="auth_before_connect">有應用程式正在嘗試登入一個 Google 帳戶。\n\n若這是有意而為，請透過<b>登入</b>按鈕以連線至 Google 登入頁面；反之，請點擊<b>取消</b>並跳轉至觸發此對話框的應用程式。」</string>
     <string name="auth_sign_in">登入</string>
     <string name="auth_connecting">「您的裝置正在與 Google 伺服器建立連線以便您登入。 可能需要一些時間完成。」</string>
     <string name="signin_picker_title">選擇帳戶</string>
@@ -240,4 +240,8 @@
     <string name="credentials_assisted_continue_as_user_button_label">以「%1$s」的身分繼續</string>
     <string name="credentials_assisted_signin_consent_header">以「%1$s」的身分登入</string>
     <string name="credentials_assisted_signin_consent">如果您繼續操作，Google 會將您的姓名、電郵地址和個人照片提供給 %1$s。請參閱 %1$s 的隱私權政策和服務條款。</string>
+    <string name="auth_package_override_request_message"><b><xliff:g example="F-Droid">%1$s</xliff:g></b> 想以 <b><xliff:g example="F-Droid">%2$s</xliff:g>（由 <xliff:g example="F-Droid Inc.">%3$s</xliff:g> 開發）</b> 的身分存取您的帳戶。這可能會讓其獲得對您帳戶的特殊存取權限。\"</string>
+    <string name="limited_services_app_name">microG Limited Services</string>
+    <string name="auth_action_notification_channel_name">Google 帳戶警告</string>
+    <string name="auth_package_override_request_title">允許 <b><xliff:g example="F-Droid">%1$s</xliff:g></b> 對 <xliff:g example="account@example.com">%2$s</xliff:g> 擁有特殊存取權限嗎？\"</string>
 </resources>
