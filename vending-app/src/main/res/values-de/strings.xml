@@ -21,4 +21,24 @@
     <string name="license_notification_ignore">Ignorieren</string>
     <string name="download_notification_attachment_file">Zusätzliche Dateien für %s</string>
     <string name="download_notification_tips">Wird heruntergeladen</string>
+    <string name="vending_overview_enterprise_no_apps_available">Von deinem Administrator wurden keine Apps zur Verfügung gestellt.</string>
+    <string name="vending_overview_row_action_uninstall">Deinstallieren</string>
+    <string name="installer_notification_channel_name">App- und Komponenteninstallation</string>
+    <string name="installer_notification_channel_description">Zeigt den Fortschritt der App- und Komponenteninstallation sowie Erfolgs- und Fehlermeldungen an.</string>
+    <string name="installer_notification_progress_commiting">„%s“ wird installiert</string>
+    <string name="installer_dependency_noun">Erforderliche Komponenten für %s</string>
+    <string name="vending_overview_row_update_available">Aktualisierung verfügbar</string>
+    <string name="installer_notification_progress_complete">„%s“ installiert</string>
+    <string name="installer_notification_progress_splitinstall_commiting">Erforderliche Komponenten für %s werden installiert</string>
+    <string name="vending_overview_row_action_install">Installieren</string>
+    <string name="vending_overview_enterprise_row_offered_hint">Dies sind alle Apps, die von deinem Arbeitgeber zur Verfügung gestellt werden.</string>
+    <string name="vending_overview_row_installed">Installierte Apps</string>
+    <string name="installer_notification_progress_splitinstall_downloading">Erforderliche Komponenten für %s werden heruntergeladen</string>
+    <string name="error_retry">Erneut versuchen</string>
+    <string name="vending_overview_enterprise_row_mandatory_missing_hint">Auf deinem Gerät fehlen die von deinem Administrator ausgewählten obligatorischen Apps.</string>
+    <string name="vending_overview_enterprise_row_offered">Verfügbare Apps</string>
+    <string name="vending_overview_row_action_update">Aktualisieren</string>
+    <string name="vending_overview_enterprise_no_apps_available_wait">Nach dem Einrichten deines Arbeitsprofils kann es ein paar Stunden dauern, bis die Apps zum Herunterladen bereitstehen.</string>
+    <string name="installer_notification_progress_downloading">„%s“ wird heruntergeladen</string>
+    <string name="installer_notification_progress_failed">„%s“ konnte nicht installiert werden</string>
 </resources>
